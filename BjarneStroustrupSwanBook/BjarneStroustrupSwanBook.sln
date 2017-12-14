@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter02.4.0StringOperator
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter02.4.1StringOperatorsExample", "Chapter02.4.1StringOperatorsExample\Chapter02.4.1StringOperatorsExample.vcxproj", "{E34B5297-0BCD-4793-84BB-0599B76827E6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter02.5.0AssignmentExample", "Chapter02.5.0AssignmentExample\Chapter02.5.0AssignmentExample.vcxproj", "{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{E34B5297-0BCD-4793-84BB-0599B76827E6}.Release|x64.Build.0 = Release|x64
 		{E34B5297-0BCD-4793-84BB-0599B76827E6}.Release|x86.ActiveCfg = Release|Win32
 		{E34B5297-0BCD-4793-84BB-0599B76827E6}.Release|x86.Build.0 = Release|Win32
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Debug|x64.ActiveCfg = Debug|x64
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Debug|x64.Build.0 = Debug|x64
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Debug|x86.Build.0 = Debug|Win32
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Release|x64.ActiveCfg = Release|x64
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Release|x64.Build.0 = Release|x64
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Release|x86.ActiveCfg = Release|Win32
+		{F3FEC8C4-FAAD-4FA7-B903-2C15A561316A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
