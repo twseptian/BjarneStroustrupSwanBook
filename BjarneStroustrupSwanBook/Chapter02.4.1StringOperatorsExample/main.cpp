@@ -16,9 +16,20 @@ int main()
 	string second;
 
 	cin >> first >> second; // Read in two strings
-	string name = first + " " + second; // Concatenate strings
+	if (first == second)
+	{
+		cout << "That is the same name twice\n";
+	}
 
-	cout << "Hello, " + name << "\n";
+	if (first < second)
+	{
+		cout << first << " is alphabetically before" << second << "\n";
+	}
+
+	if (first > second)
+	{
+		cout << first << " is alphabetically after" << second << "\n";
+	}
 
 	keep_window_open();
 	return 0;
