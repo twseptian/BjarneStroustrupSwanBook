@@ -24,6 +24,4 @@ int main()
 		<< "\nsquare root of n == " << sqrt(n)
 		<< "\nModulo with 5 == " << n % 5
 		<< endl;
-	keep_window_open();
-	return 0;
 }
